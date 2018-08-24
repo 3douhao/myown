@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://gagaza.com/"
+baseURL = "http://www.gagaza.com/"
 languageCode = "en-us"
 title = "Forty"
 theme = ""
