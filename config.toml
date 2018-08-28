@@ -1,7 +1,7 @@
 # Site settings
 baseURL = ""
-languageCode = "en-us"
-title = "Forty"
+languageCode = "cn"
+title = "四十"
 theme = ""
 
 # Enter your tracking code to enable Google Analytics
@@ -19,8 +19,8 @@ disqusShortname = ""
   # CSS class.
 
   # Provide your metadata here.
-  name = "Your name"
-  description = "Your description"
+  name = "我的名字"
+  description = "我的说明"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -32,8 +32,8 @@ disqusShortname = ""
 
   # 404 error customization
   [params.error404]
-    heading = "Page couldn't be found"
-    text = "Please visit [this page](/)"
+    heading = "找不到网页"
+    text = "请访问(/)"
 
   # Navigation Section
   [params.navigation]
@@ -44,19 +44,19 @@ disqusShortname = ""
     # logo = "logo.png"
 
     [[params.navigation.links]]
-      name = "Home"
+      name = "主页"
       url = "#"
 
     [[params.navigation.links]]
-      name = "Blogs"
+      name = "博客"
       url = "blogs"
 
     [[params.navigation.links]]
-      name = "Generic Blog"
+      name = "另一个博客"
       url = "blogs/ipsum"
 
     [[params.navigation.links]]
-      name = "Elements"
+      name = "元素"
       url = "elements.html"
 
     # Add custom links here by uncommenting code below. To remove links just delete
